@@ -9,6 +9,7 @@ How does the maturity rating affect rating and sales?
 Future questions:
 Can critic scores of new games be predicted?
 How does the title affect sales?
+How does an exclusive release affect sales?
 
 Issues:
 Ratings dependent on MetaCritic, which only lists a subset of the games.
