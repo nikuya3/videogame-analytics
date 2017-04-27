@@ -1,0 +1,18 @@
+Questions:
+Does a publisher have a significance difference in sales of different regions?
+How many games were sold in a given year?
+How does the genre affect ratings and sales?
+How are critic scores different from user scores? Which game has the highest delta?
+How does the publisher affect critic scores (bribing)?
+How does the maturity rating affect rating and sales?
+
+Future questions:
+Can critic scores of new games be predicted?
+How does the title affect sales?
+
+Issues:
+Ratings dependent on MetaCritic, which only lists a subset of the games.
+
+Effort to sustain:
+VGchartz and MetaCritic databases have to be scratched for every new game. The workflow will be the same every time.
+The underlying idea doesn't change.
